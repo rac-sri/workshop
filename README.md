@@ -1,3 +1,2 @@
 # workshop
-klsdjfklsdjflksd
-hjgfhjghjgjk
+Repo created ot the Owasp workshop of git.
