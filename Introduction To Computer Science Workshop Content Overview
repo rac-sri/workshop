@@ -1,0 +1,59 @@
+Competitive programming:
+	-Areas of application
+	-Level of ques req in diff industry arenas.
+	-Language and common myths regarding them.
+
+Machine learning 
+	-ai (example tic tac toe tree)
+	-applied ai (just learni ) - generalised ai ( act like humans)
+	-data cleaning ( 10 year challenge )
+	-neural network and deep leanrning (eg. snapchat)
+	-openCV and tensorflow
+	-linear regression
+	-nlp
+	-Data Science:obtaing , tramsforming , analysing data and communicating data
+		        ( Descriptive , Exploratory , Predictive , Mechanistic Analysice(how does an existing scientific model fits in real world),
+			inferential analysis(infering behaviour based on attributes) , Casaul Analysis(x causes y and so on)) 
+
+Iot
+	-tinkercad
+	-line follower
+	-arduino rasbarypie
+	-sample code
+
+Cloud computing:
+	-Infrastructure maintainance enhancement
+	-Pay for what you ues.
+	-Practically unlimited infrastructure.
+	-Google Cloud , Microsoft Azure , AWS , Alibaba Cloud , Oracle Cloud , Heroku
+	-Duties: Infrastructure maintainaince ,  database management etc.
+
+Web (node , django , frameworks , real time communications , bandwidth restrictions)
+
+App (  || ) + flutter kotlin java 
+
+blockchain:
+	-bitcoin and crytocurrency
+	-ether and etherium
+	-smart contracts
+	-structure of a block and introduction to blockchain
+	-feasibility and future scope
+
+cyber security
+	-arp
+	- IV + keystream = keystream  (24 bit and iv is attached in plain text)
+	-zenmap , mitmf ( + creating a fake access point)
+	-server side attacks ( information gathering , code execution vulnerability , metasploit community , nexpose)
+	-client side (veil) , (left to right operator example , fake file server example)
+	-post : 
+	-robtex.com , bing.com ip:[target] for websites on same server
+	-Dns Lookup
+	-drib ( web content scanner)
+	- sql injection , cross sute scripting 
+	- owaspzap
+
+	
+(not by me):
+game 
+ar/vr
+
